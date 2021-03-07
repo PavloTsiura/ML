@@ -1,3 +1,7 @@
 # AI
 
-Here are some projects I did, most of neural networks were written by me on numpy, in order to understand algorythms better.
+Here are ML algorithms implemented on python's numpy and matlab.
+
+Most of numpy scripts are distance-based NN
+Matlab files feature orthodox learning algorithms
+
